@@ -1,0 +1,15 @@
+.wrapper {
+  margin-top: 16em;
+  display: block;
+  display: flex;
+  flex-wrap: wrap;
+  .title_container {
+    width: 50%;
+  }
+  img {
+    width: 50%;
+  }
+  span {
+    position: absolute;
+  }
+}
